@@ -1,0 +1,45 @@
+.modifier-vehicule {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+  }
+  
+  .modifier-vehicule h2 {
+    text-align: center;
+  }
+  
+  .modifier-vehicule form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .modifier-vehicule div {
+    margin-bottom: 15px;
+  }
+  
+  .modifier-vehicule label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .modifier-vehicule input {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+  }
+  
+  .modifier-vehicule button {
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .modifier-vehicule button:hover {
+    background-color: #0056b3;
+  }
+  
